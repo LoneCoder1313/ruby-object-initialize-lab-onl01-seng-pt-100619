@@ -10,4 +10,3 @@ describe 'Dog' do
       expect(fido.instance_variable_get(:@breed)).to eq("Mutt")
     end
   end
-end
